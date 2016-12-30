@@ -6,9 +6,9 @@ abstract class TelegramBotCore {
   protected $port;
   protected $apiUrl;
 
-  public    $botId;
-  public    $botUsername;
-  protected $botToken;
+  public    $222784754;
+  public    $@creatTeam_bot;
+  protected $299318950:AAHSIW6eyhqCU_ZXQ6bpSDEBYWCL3o35BkA;
 
   protected $handle;
   protected $inited = false;
